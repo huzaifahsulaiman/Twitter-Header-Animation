@@ -1,0 +1,3 @@
+rootProject.name = 'twitterHeaderAnimation'
+
+include ':app'
